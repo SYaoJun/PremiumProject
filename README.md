@@ -1,8 +1,13 @@
-## Github优质项目
-| 项目名   | 简介   | 源码仓库   | 编程语言|
-|---------|---------|---------|---------|
-| arrow   | 内存格式   | X   | C++  |
-| protobuf   | 传输协议   | X   | C++  |
-| leveldb   | KV存储引擎   | X   | C++  |
-| folly   | 公共开发库   | X   | C++  |
-| googletest   | 测试框架   | X   | C++  |
+## C++项目
+-  arrow   | 内存格式  
+- protobuf   | 传输协议 
+- leveldb   | KV存储引擎 
+- folly   | 公共开发库  
+- googletest   | 测试框架  
+- openDAL | 数据访问层
+- spdlog | 日志
+- grpc | 网络库
+- protobuf | 序列化
+- pincobench | 轻量级测性能
+- openmp | 并行
+- opencv | 图像
