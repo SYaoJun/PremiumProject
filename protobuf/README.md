@@ -2,7 +2,8 @@
 
 ## 查看版本
 ```
-protoc --version
+$ protoc --version
+libprotoc 26.1
 ## 定义消息格式
 ```
 ## 生成业务文件
